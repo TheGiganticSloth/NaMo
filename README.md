@@ -1,7 +1,7 @@
 # NaMo
  ------ Nano Move ------
 
-A Python script I used to move nanowires with the use of AFM. Currently used in a notebook.
+A Python script I used to move nanowires with the use of AFM (Bruker Dimension Icon). Currently used in a notebook.
 
 There are examples of rotations, translations and complete move. Feel free to suggest improvement.
 
