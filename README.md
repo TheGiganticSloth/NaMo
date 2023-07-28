@@ -1,5 +1,5 @@
-# NaMo
- ------ Nano Move ------
+# NaWiM
+ ------ Nano Wire Move ------
 
 A Python script I used to move nanowires with the use of AFM (Bruker Dimension Icon). Currently used in a notebook.
 
